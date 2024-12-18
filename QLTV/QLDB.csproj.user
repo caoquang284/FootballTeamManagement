@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="AUInterface.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BaoCaoThongKe.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="FootballerManagementUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="FormationManagementUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoginScreen.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TrangChu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AUInterface.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BaoCaoThongKe.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="FootballerManagementUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="FormationManagementUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LoginScreen.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TrangChu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
